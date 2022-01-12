@@ -8,7 +8,7 @@ import RPi.GPIO as GPIO
 
 from motor import Navigator
 from camera_sensor import CameraSensor
-from decision_algorism import DecisionAlgorism
+from decision_algorithm import DecisionAlgorithm
 from hcsr04 import HCSR04
 
 
