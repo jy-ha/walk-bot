@@ -52,7 +52,7 @@ walking_robot
 
 unity/Teo Jansen Simulation 폴더에서는 강화학습을 활용한 각 링크 길이 최적화를 수행합니다.
 <br/><br/>
-<h3>CAD
+<h3>CAD</h3>
 
 ![3](images/3.jpg)
 
