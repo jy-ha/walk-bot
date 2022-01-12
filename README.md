@@ -76,7 +76,7 @@ unty/Driving Simulation 폴더에서는 OpenCV for Unity 외부 에셋을 활용
 해당 주행 알고리즘은 raspberry/auto/decision_algorithm.py 에 python으로 구현되어 있습니다.
 <br/><br/>
 <h3>Cascade Image Classification</h3>
-    
+
 ![6](images/6.jpg)
 
 raspberry pi에서는 무거운 image classification 모델을 구동하기 어렵기도 하고, 학습 데이터가 적을 경우 정확도가 많이 떨어집니다.   
