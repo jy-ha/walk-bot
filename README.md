@@ -12,7 +12,7 @@
 
 |Tech|Detail|
 |---|---|
-|<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>|Main algorism & GPIO control|
+|<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>|Main algorithm & GPIO control|
 |<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>|Vision processing|
 |<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>|Designing leg shape by Reinforcement Learning<br/> Simulating autonomous driving algorism|
 |<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"/>|Used in Unity|
